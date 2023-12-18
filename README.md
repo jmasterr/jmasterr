@@ -13,6 +13,8 @@ Skills: REACT / JS / HTML / CSS / Python / Django / MongoDB / PostgreSQL / Expre
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmasterr)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmasterr)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jmasterr/jmasterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
