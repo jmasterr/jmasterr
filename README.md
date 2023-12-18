@@ -1,7 +1,7 @@
 <h1>👋 Jaim Toledo || Software Engineer👨‍💻</h1>
 
 <p>19-year-old Full-Stack Software Engineer | Enthusiastic about building computers, continuous learning, and hands-on coding. Passionate about crafting innovative solutions and contributing to the world of software development. Eager to collaborate and explore new technologies. You can check out my linkedin in my bio</P>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/jmasterr/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmasterr)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jmasterr/jmasterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
