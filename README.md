@@ -2,7 +2,7 @@
 #### Full-Stack Software Engineer
 ![Full-Stack Software Engineer](https://connect-platform.github.io/coding-blog-plugin/img/cb-banner.svg)
 
-19-year-old Full-Stack Software Engineer | Enthusiastic about building computers, continuous learning, and hands-on coding. Passionate about crafting innovative solutions and contributing to the world of software development. Eager to collaborate and explore new technologies.
+Full-Stack Software Engineer | Enthusiastic about building computers, continuous learning, and hands-on coding. Passionate about crafting innovative solutions and contributing to the world of software development. Eager to collaborate and explore new technologies.
 
 Skills: REACT / JS / HTML / CSS / Python / Django / MongoDB / PostgreSQL / Express / Node.js / Git 
 
