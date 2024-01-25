@@ -11,7 +11,7 @@ Skills: REACT / JS / HTML / CSS / Python / Django / MongoDB / PostgreSQL / Expre
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jmasterr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jaimtoledo10/)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmasterr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmasterr)](https://github.com/anuraghazra/github-readme-stats.patch)
 
 
 <!--
